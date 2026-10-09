@@ -1,0 +1,6 @@
+{
+  "name": "AutoPost FB - Viết Content Facebook Chuẩn SEO",
+  "description": "Công cụ AI tự động tạo bài viết Facebook chuẩn SEO, thu hút tương tác từ từ khóa và câu hỏi với đầy đủ cấu trúc hấp dẫn và hashtag tối ưu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
